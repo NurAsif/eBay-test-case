@@ -1,2 +1,2 @@
-# SAQ project
+# SQA project
 eBay-test-case
