@@ -1,6 +1,6 @@
 # **eBay SQA Test Case Documentation**
 
-This repository contains structured test case documentation created for testing eBay's platform as part of a Software Quality Assurance (SQA) project. The focus is on ensuring functionality, user experience, and reliability across key workflows such as user registration and homepage interactions.
+This repository contains structured test case documentation created for testing workflows on the [eBay](https://www.ebay.com/) platform. The project demonstrates Software Quality Assurance (SQA) practices, focusing on key functionalities such as user registration and homepage interactions.
 
 ## **Contents**
 - **SignUp & Register**: Test cases for validating the user registration process on eBay.
@@ -25,18 +25,17 @@ Each test case includes the following details:
 ## **Usage**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NurAsif/eBay-test-case.git
+   git clone https://github.com/yourusername/your-repo-name.git
    ```
 2. Review and edit the test cases to match your specific testing requirements.
-3. Execute the test cases against the eBay platform and document results.
+3. Execute the test cases against the [eBay website](https://www.ebay.com/) and document results.
 4. Use the sample template to design additional test cases for new workflows.
 
 ## **Contributing**
 Feedback and contributions are welcome! If you have suggestions for improving the test case structure or identifying new scenarios, please open an issue or submit a pull request.
 
 ## **Disclaimer**
-This project is purely educational and intended for demonstrating SQA practices. It is not affiliated with or endorsed by eBay Inc.
+This project is purely educational and intended for demonstrating SQA practices. It is not affiliated with or endorsed by eBay Inc. Any references to eBay or its trademarks are solely for the purpose of illustrating testing workflows.
 
 ## **License**
 This project is licensed under the MIT License.
-
