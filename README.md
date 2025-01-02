@@ -25,7 +25,7 @@ Each test case includes the following details:
 ## **Usage**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/NurAsif/eBay-test-case.git
    ```
 2. Review and edit the test cases to match your specific testing requirements.
 3. Execute the test cases against the eBay platform and document results.
